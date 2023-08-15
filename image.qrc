@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image"/>
+    <qresource prefix="/imag">
+        <file>GameOverImage.jpg</file>
+    </qresource>
+</RCC>
